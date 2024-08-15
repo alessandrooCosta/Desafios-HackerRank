@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java Loops II/Java Loops II.iml" filepath="$PROJECT_DIR$/Java Loops II/Java Loops II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java Datatypes/Java Datatypes.iml" filepath="$PROJECT_DIR$/Java/Java Datatypes/Java Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java Loops II/Java Loops II.iml" filepath="$PROJECT_DIR$/Java/Java Loops II/Java Loops II.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/desafiosHackerRank.iml" filepath="$PROJECT_DIR$/.idea/desafiosHackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDados/estruturadeDados/estruturadeDados.iml" filepath="$PROJECT_DIR$/EstruturaDeDados/estruturadeDados/estruturadeDados.iml" />
     </modules>
   </component>
 </project>
